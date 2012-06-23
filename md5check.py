@@ -1,7 +1,7 @@
 '''
 Quick MD5 Hash Check
 
-Copyright © Chris Camargo 2011-2012, All rights reserved.
+Copyright Chris Camargo 2011-2012, All rights reserved.
 
 This software has only three copyright restrictions. 
 Firstly, this copyright notice must remain intact and unmodified. 
