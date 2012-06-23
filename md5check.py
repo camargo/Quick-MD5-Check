@@ -1,17 +1,5 @@
-'''
-Quick MD5 Hash Check
-
-Copyright Chris Camargo 2011-2012, All rights reserved.
-
-This software has only three copyright restrictions. 
-Firstly, this copyright notice must remain intact and unmodified. 
-Secondly, the Author, Chris Camargo, 
-must be appropriately and prominantly credited in any documentation associated with any derived work. 
-Thirdly unless otherwise negotiated with the author, 
-you may not sell this program commercially, reasonable distribution costs excepted.
-
-Use and or distribution of this software implies acceptance of the above.
-'''
+# Quick MD5 Hash Check
+# Copyright Chris Camargo 2011-2012, All rights reserved.
 
 import sys
 import hashlib
@@ -21,7 +9,7 @@ def main():
 		filename = sys.argv[1]
 		realMd5 = sys.argv[2]
 	except IndexError:
-		print("Usage: <file to check> <file valid MD5 hash>")
+		print("Usage: <file to check> <file's valid MD5 hash>")
 		sys.exit()
 	else:
 		testFile = open(filename, "rb")
