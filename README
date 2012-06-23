@@ -5,4 +5,4 @@ _____       _      _     ___  ________ _____   _____ _               _
 \ \/' / |_| | | (__|   <  | |  | | |/ //\__/ / | \__/\ | | |  __/ (__|   < 
  \_/\_\\__,_|_|\___|_|\_\ \_|  |_/___/ \____/   \____/_| |_|\___|\___|_|\_\
 
-This is a simple command-line utility written in Python to do on-the-fly MD5 verification of downloaded files. To use this utility, download the md5check.py file and run it in the command-line. Pass in 2 arguments separated by a space: (1) the name of the file you wish to verify and (2) the files valid MD5 hash given by its vendor.
+This is a simple command-line utility written in Python to do on-the-fly MD5 verification of downloaded files. To use this utility, download the md5check.py file and run it in the command-line. Pass in 2 arguments separated by a space: (1) the name of the file you wish to verify and (2) the file's valid MD5 hash given by its vendor.
