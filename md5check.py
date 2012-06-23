@@ -1,5 +1,4 @@
-# Quick MD5 Hash Check
-# Copyright Chris Camargo 2011-2012, All rights reserved.
+# Quick MD5 Hash Check by Chris Camargo
 
 import sys
 import hashlib
