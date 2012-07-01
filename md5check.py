@@ -39,9 +39,9 @@ def main():
 				break
 	
 	if (hashedMd5 == realMd5):
-		print("MD5 Varified! :)")
+		print("MD5 Verified! :)")
 	else:
-		print("MD5 NOT Varified :(")
+		print("MD5 NOT Verified :(")
 	
 	testFile.close()
 
